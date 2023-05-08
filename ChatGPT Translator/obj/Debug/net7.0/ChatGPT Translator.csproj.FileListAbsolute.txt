@@ -1,0 +1,30 @@
+D:\ChatGPT Translator\ChatGPT Translator\obj\Debug\net7.0\ChatGPT Translator.csproj.AssemblyReference.cache
+D:\ChatGPT Translator\ChatGPT Translator\obj\Debug\net7.0\ChatGPT Translator.GeneratedMSBuildEditorConfig.editorconfig
+D:\ChatGPT Translator\ChatGPT Translator\obj\Debug\net7.0\ChatGPT Translator.AssemblyInfoInputs.cache
+D:\ChatGPT Translator\ChatGPT Translator\obj\Debug\net7.0\ChatGPT Translator.AssemblyInfo.cs
+D:\ChatGPT Translator\ChatGPT Translator\obj\Debug\net7.0\ChatGPT Translator.csproj.CoreCompileInputs.cache
+D:\ChatGPT Translator\ChatGPT Translator\bin\Debug\net7.0\ChatGPT Translator.exe
+D:\ChatGPT Translator\ChatGPT Translator\bin\Debug\net7.0\ChatGPT Translator.deps.json
+D:\ChatGPT Translator\ChatGPT Translator\bin\Debug\net7.0\ChatGPT Translator.runtimeconfig.json
+D:\ChatGPT Translator\ChatGPT Translator\bin\Debug\net7.0\ChatGPT Translator.dll
+D:\ChatGPT Translator\ChatGPT Translator\bin\Debug\net7.0\ChatGPT Translator.pdb
+D:\ChatGPT Translator\ChatGPT Translator\obj\Debug\net7.0\ChatGPT Translator.csproj.CopyComplete
+D:\ChatGPT Translator\ChatGPT Translator\obj\Debug\net7.0\ChatGPT Translator.dll
+D:\ChatGPT Translator\ChatGPT Translator\obj\Debug\net7.0\refint\ChatGPT Translator.dll
+D:\ChatGPT Translator\ChatGPT Translator\obj\Debug\net7.0\ChatGPT Translator.pdb
+D:\ChatGPT Translator\ChatGPT Translator\obj\Debug\net7.0\ChatGPT Translator.genruntimeconfig.cache
+D:\ChatGPT Translator\ChatGPT Translator\obj\Debug\net7.0\ref\ChatGPT Translator.dll
+D:\ChatGPT Translator\ChatGPT Translator\bin\Debug\net7.0\OpenAI.GPT3.dll
+D:\ChatGPT Translator\ChatGPT Translator\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ChatGPT Translator\ChatGPT Translator\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\ChatGPT Translator\ChatGPT Translator\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+D:\ChatGPT Translator\ChatGPT Translator\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ChatGPT Translator\ChatGPT Translator\bin\Debug\net7.0\Microsoft.Extensions.Http.dll
+D:\ChatGPT Translator\ChatGPT Translator\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+D:\ChatGPT Translator\ChatGPT Translator\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ChatGPT Translator\ChatGPT Translator\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\ChatGPT Translator\ChatGPT Translator\bin\Debug\net7.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\ChatGPT Translator\ChatGPT Translator\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+D:\ChatGPT Translator\ChatGPT Translator\bin\Debug\net7.0\ServiceStack.Text.dll
+D:\ChatGPT Translator\ChatGPT Translator\bin\Debug\net7.0\Application.configuration
+D:\ChatGPT Translator\ChatGPT Translator\bin\Debug\net7.0\English.lng
